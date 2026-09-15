@@ -8,7 +8,7 @@ WinNavigator, Windows Dosya Gezgini ile benzer bir işlevselliğe sahip olan mod
 ## Derleme
 Depoyu klonladıktan sonra Visual Studio 2026 kullanarak kaynak kodundan derleme yapabilirsiniz. **"C++ masaüstü geliştirme"** iş yükü yüklü olmalıdır.
 ## Kurulum
-Bu proje ile birlikte x64 mimarisi için hazır MSI paketi kullanıma sunulmuştur.
+x64 mimarisi için MSI paketi sunulması planlanmaktadır.
 ## Bilinen sorunlar
 - 1.0.0.1 sürümü itibariyle bildirilen bir sorun yoktur.
 ## Ekran görüntüsü
