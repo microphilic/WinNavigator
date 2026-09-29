@@ -1,6 +1,6 @@
 # WinNavigator
 ## Hakkında
-WinNavigator, Windows Dosya Gezgini ile benzer bir işlevselliğe sahip olan modern ve hafif bir dosya yöneticisidir. Modern C++ dil özelliklerini ve yerel Windows API'lerini kullanarak sade ve yüksek performanslı ve güvenli bir yönetim ortamı oluşturmayı amaçlar.
+WinNavigator, Windows Dosya Gezgini ile benzer bir işlevselliğe sahip olan modern ve hafif bir dosya yöneticisidir. Modern C++ dil özelliklerini ve yerel Windows API'lerini kullanarak sade, yüksek performanslı ve güvenli bir yönetim ortamı oluşturmayı amaçlar.
 ## Kullanılan teknolojiler
 - Visual C++ 2026 (v14.51)
 - Windows 11 SDK (v10.0.28000)
